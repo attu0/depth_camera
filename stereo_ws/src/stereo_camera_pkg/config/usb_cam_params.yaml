@@ -1,0 +1,8 @@
+/**:
+  ros__parameters:
+    video_device: "/dev/video2"
+    pixel_format: "mjpeg2rgb"
+    image_width: 2560
+    image_height: 720
+    framerate: 30.0
+    camera_frame_id: "stereo_camera"

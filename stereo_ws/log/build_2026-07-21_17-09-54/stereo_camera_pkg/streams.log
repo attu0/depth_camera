@@ -1,0 +1,24 @@
+[1.306s] Invoking command in '/home/atharv/Desktop/depth_camera/stereo_ws/src/stereo_camera_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/atharv/Desktop/depth_camera/stereo_ws/install/stereo_camera_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/stereo_camera_pkg build --build-base /home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/build install --record /home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/install.log --install-scripts $base/lib/stereo_camera_pkg --single-version-externally-managed install_data
+[1.739s] running egg_info
+[1.771s] writing ../../build/stereo_camera_pkg/stereo_camera_pkg.egg-info/PKG-INFO
+[1.772s] writing dependency_links to ../../build/stereo_camera_pkg/stereo_camera_pkg.egg-info/dependency_links.txt
+[1.772s] writing entry points to ../../build/stereo_camera_pkg/stereo_camera_pkg.egg-info/entry_points.txt
+[1.772s] writing requirements to ../../build/stereo_camera_pkg/stereo_camera_pkg.egg-info/requires.txt
+[1.772s] writing top-level names to ../../build/stereo_camera_pkg/stereo_camera_pkg.egg-info/top_level.txt
+[1.839s] reading manifest file '../../build/stereo_camera_pkg/stereo_camera_pkg.egg-info/SOURCES.txt'
+[1.840s] writing manifest file '../../build/stereo_camera_pkg/stereo_camera_pkg.egg-info/SOURCES.txt'
+[1.841s] running build
+[1.841s] running build_py
+[1.841s] copying stereo_camera_pkg/stereo_splitter.py -> /home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/build/lib/stereo_camera_pkg
+[1.841s] running install
+[1.850s] running install_lib
+[1.883s] copying /home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/build/lib/stereo_camera_pkg/stereo_splitter.py -> /home/atharv/Desktop/depth_camera/stereo_ws/install/stereo_camera_pkg/lib/python3.12/site-packages/stereo_camera_pkg
+[1.884s] byte-compiling /home/atharv/Desktop/depth_camera/stereo_ws/install/stereo_camera_pkg/lib/python3.12/site-packages/stereo_camera_pkg/stereo_splitter.py to stereo_splitter.cpython-312.pyc
+[1.885s] running install_data
+[1.885s] running install_egg_info
+[1.920s] removing '/home/atharv/Desktop/depth_camera/stereo_ws/install/stereo_camera_pkg/lib/python3.12/site-packages/stereo_camera_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[1.920s] Copying ../../build/stereo_camera_pkg/stereo_camera_pkg.egg-info to /home/atharv/Desktop/depth_camera/stereo_ws/install/stereo_camera_pkg/lib/python3.12/site-packages/stereo_camera_pkg-0.0.0-py3.12.egg-info
+[1.921s] running install_scripts
+[2.171s] Installing stereo_splitter script to /home/atharv/Desktop/depth_camera/stereo_ws/install/stereo_camera_pkg/lib/stereo_camera_pkg
+[2.171s] writing list of installed files to '/home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/install.log'
+[2.207s] Invoked command in '/home/atharv/Desktop/depth_camera/stereo_ws/src/stereo_camera_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/atharv/Desktop/depth_camera/stereo_ws/install/stereo_camera_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/stereo_camera_pkg build --build-base /home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/build install --record /home/atharv/Desktop/depth_camera/stereo_ws/build/stereo_camera_pkg/install.log --install-scripts $base/lib/stereo_camera_pkg --single-version-externally-managed install_data

@@ -1,0 +1,2 @@
+[console_scripts]
+stereo_splitter = stereo_camera_pkg.stereo_splitter:main
